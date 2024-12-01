@@ -174,15 +174,6 @@ Choose from different learning paths based on your coding interests. Whether you
 
 ---
 
-**Screenshots**
-
-![Home Page](./assets/homepage.png)
-*The landing page of CodeQuest.*
-
-![Challenge Example](./assets/challenge.png)
-*An example coding challenge screen.*
-
----
 
 **Support**
 
